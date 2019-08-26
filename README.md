@@ -3,7 +3,7 @@ NyanCatFlappyBird
 
 Flappy Bird with a Nyan Cat
 
-Made for First Friday Hackathon, placed 2nd.
+Made for First Friday Hackathon at FourAthens(local Athens,GA Startup Incubator), placed 2nd.
 
 ## Deprecated
 
